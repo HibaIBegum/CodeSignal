@@ -1,0 +1,2 @@
+# CodeSignal
+CodeSignal Arcade Solution
